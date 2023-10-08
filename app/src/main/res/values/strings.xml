@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Benchmark Testing</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="welcome">Welcome\n</string>
+    <string name="prompt_email">Enter email\n</string>
+    <string name="prompt_password">Enter password</string>
+    <string name="action_sign_in_short">Signin</string>
+    <string name="action_sign_in">Signin</string>
+    <string name="title_activity_login">Authentication</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_gallery">Gallery</string>
+</resources>
